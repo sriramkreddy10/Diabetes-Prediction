@@ -19,11 +19,11 @@ Data Cleaning:
 - the outliers were removed based on the attribute and their relevance.(like blood pressure can never be equal to zero)
 
 Model building:
--KNN regression
--linear regression
--Logistic regression
--Kerenilzed Support Vector Machine (rbf, poly, and linear)
--Decision Tree Model
+- KNN regression
+- linear regression
+- Logistic regression
+- Kerenilzed Support Vector Machine (rbf, poly, and linear)
+- Decision Tree Model
 
 Prediction:
 From the above models, based on train and test scores Logistic regression was apt for making predictions on the test dataset.
