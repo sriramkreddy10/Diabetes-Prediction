@@ -20,7 +20,6 @@ Data Cleaning:
 
 Model building:
 - KNN regression
-- linear regression
 - Logistic regression
 - Kerenilzed Support Vector Machine (rbf, poly, and linear)
 - Decision Tree Model
