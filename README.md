@@ -15,7 +15,7 @@ Target: Value of 0 or 1 corresponds to no diabetes and diabetes
 Data Cleaning: 
 - values of attributes D,E,F are missing.
 - almost 50% of E column data is missing, so the row is removed for analysis.
-- the missing rows of D are replaced by the mean and of E by median. 
+- the missing rows of D are replaced by the mean and of E by median(depending on the skewnwss of the data). 
 - the outliers were removed based on the attribute and their relevance.(like blood pressure can never be equal to zero)
 
 Model building:
